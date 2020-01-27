@@ -1,0 +1,1 @@
+cinst visualstudio2019-workload-nativegame -y

@@ -1,0 +1,1 @@
+cinst android-sdk android-ndk android adb jre8 jdk8 -y

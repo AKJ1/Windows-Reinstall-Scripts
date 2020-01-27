@@ -1,0 +1,1 @@
+cinst cpu-z windirstat gpu-z hwinfo -y

@@ -1,0 +1,1 @@
+cinst epicgameslauncher steam obs-studio discord geforce-experience -y

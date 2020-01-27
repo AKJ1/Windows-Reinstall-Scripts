@@ -1,0 +1,1 @@
+cinst mpc-hc ffmpeg qbittorrent ungoogled-chromium vscode powertoys 7zip microsoft-windows-terminal wox -y
